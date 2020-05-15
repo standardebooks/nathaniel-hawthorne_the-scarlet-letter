@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-05-15T00:52:29Z</dc:date>
+		<meta property="dcterms:modified">2020-05-15T00:52:29Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -70,13 +70,19 @@
 		<meta property="authority" refines="#subject-11">LCSH</meta>
 		<meta property="term" refines="#subject-11">sh2008114447</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">LONG_DESCRIPTION</meta>
+		<dc:description id="description">A woman in the Puritan Massachusetts Bay Colony is forced to wear the shame of her sin embroidered on her clothes.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;&lt;i&gt;The Scarlet Letter&lt;/i&gt; was published in 1850; it was one of the first books to be mass-produced in America, which helped ensure its immediate popularity and ubiquitous presence on contemporary shelves. Its first printing of 2,500 books sold out in ten days.&lt;/p&gt;
+			&lt;p&gt;The novel is set in the Puritan Massachusetts Bay Colony between the years 1642 and 1649. Hester Prynne has had a child out of wedlock, and its father is a mystery. For her sin, she is made to wear an embroidered scarlet A on her clothes—for “Adulteress.” She now faces a life of unending shame in the stern and religious Puritan colony, in a part of the world where there are no others to turn to.&lt;/p&gt;
+			&lt;p&gt;While the plot is simple, the novel is highly allegorical. It explores themes of sin, guilt, repentance, forgiveness, alienation, and legalism. Characters have symbolic names and appearances, and many aspects of the narrative can be viewed in a symbolist lens.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Hawthorne&lt;/a&gt; initially thought the novel was too short for publication on its own; to pad the length, he included the “Customhouse” introduction. The introduction angered the residents of Salem, who though the introduction was poking mean-spirited fun at them. This prompted Hawthorne to republish the book “without the change of a word,” but with a reassurance that the introduction was meant in good spirits.&lt;/p&gt;
+			&lt;p&gt;The novel has been consistently popular since its publication, with it being required reading in many American high schools. &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt; called it “a perfect work of American imagination.”&lt;/p&gt;
+		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25344</dc:source>
 		<dc:source>https://books.google.com/books?id=oJxUAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">84436</meta>
+		<meta property="se:reading-ease.flesch">55.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Scarlet_Letter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nathaniel-hawthorne_the-scarlet-letter</meta>
 		<dc:creator id="author">Nathaniel Hawthorne</dc:creator>
