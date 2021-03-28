@@ -91,7 +91,7 @@
 		<dc:creator id="author">Nathaniel Hawthorne</dc:creator>
 		<meta property="file-as" refines="#author">Hawthorne, Nathaniel</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nathaniel_Hawthorne</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79007728</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79007728</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">aui</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -99,7 +99,7 @@
 		<dc:contributor id="artist">Hugues Merle</dc:contributor>
 		<meta property="file-as" refines="#artist">Merle, Hugues</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hugues_Merle</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/nr2001021401</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2001021401</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Markus Brenner</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Brenner, Markus</meta>
