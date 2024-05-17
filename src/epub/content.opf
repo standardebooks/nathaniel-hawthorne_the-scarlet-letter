@@ -72,6 +72,8 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">16</meta>
+		<meta id="collection-2" property="belongs-to-collection">Harvard Classics Shelf of Fiction</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">A woman in the Puritan Massachusetts Bay Colony is forced to wear the shame of her sin embroidered on her clothes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Scarlet Letter&lt;/i&gt; was published in 1850; it was one of the first books to be mass-produced in America, which helped ensure its immediate popularity and ubiquitous presence on contemporary shelves. Its first printing of 2,500 books sold out in ten days.&lt;/p&gt;
