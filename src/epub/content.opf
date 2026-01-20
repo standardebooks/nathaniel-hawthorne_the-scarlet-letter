@@ -86,7 +86,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25344</dc:source>
 		<dc:source>https://books.google.com/books?id=oJxUAAAAYAAJ</dc:source>
-		<meta property="se:word-count">84436</meta>
+		<meta property="se:word-count">83919</meta>
 		<meta property="se:reading-ease.flesch">56.08</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Scarlet_Letter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nathaniel-hawthorne_the-scarlet-letter</meta>
