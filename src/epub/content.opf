@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Scarlet Letter: A Romance</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Scarlet Letter</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Historical fiction</dc:subject>
 		<dc:subject id="subject-3">Revenge -- Fiction</dc:subject>
