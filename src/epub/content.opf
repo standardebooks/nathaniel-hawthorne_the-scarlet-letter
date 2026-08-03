@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter</dc:identifier>
 		<dc:date>2020-05-15T00:52:29Z</dc:date>
@@ -79,14 +79,14 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">20</meta>
-		<dc:description id="description">A woman in the Puritan Massachusetts Bay Colony is forced to wear the shame of her sin embroidered on her clothes.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A woman in the Puritan Massachusetts Bay Colony is forced to wear the shame of her sin embroidered on her clothes.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Scarlet Letter&lt;/i&gt; was published in 1850; it was one of the first books to be mass-produced in America, which helped ensure its immediate popularity and ubiquitous presence on contemporary shelves. Its first printing of 2,500 books sold out in ten days.&lt;/p&gt;
 			&lt;p&gt;The novel is set in the Puritan Massachusetts Bay Colony between the years 1642 and 1649. Hester Prynne has had a child out of wedlock, and its father is a mystery. For her sin, she is made to wear an embroidered scarlet A on her clothes—for “Adulteress.” She now faces a life of unending shame in the stern and religious Puritan colony, in a part of the world where there are no others to turn to.&lt;/p&gt;
 			&lt;p&gt;While the plot is simple, the novel is highly allegorical. It explores themes of sin, guilt, repentance, forgiveness, alienation, and legalism. Characters have symbolic names and appearances, and many aspects of the narrative can be viewed in a symbolist lens.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Hawthorne&lt;/a&gt; initially thought the novel was too short for publication on its own; to pad the length, he included the “Customhouse” introduction. The introduction angered the residents of Salem, who thought the introduction was poking mean-spirited fun at them. This prompted Hawthorne to republish the book “without the change of a word,” but with a reassurance that the introduction was meant in good spirits.&lt;/p&gt;
 			&lt;p&gt;The novel has been consistently popular since its publication, with it being required reading in many American high schools. &lt;a href="https://standardebooks.org/ebooks/d-h-lawrence"&gt;D. H. Lawrence&lt;/a&gt; called it “a perfect work of American imagination.”&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/25344</dc:source>
 		<dc:source>https://books.google.com/books?id=oJxUAAAAYAAJ</dc:source>
