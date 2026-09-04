@@ -37,17 +37,17 @@
 		<dc:title id="fulltitle">The Scarlet Letter: A Romance</dc:title>
 		<meta property="file-as" refines="#fulltitle">The Scarlet Letter</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Adultery--Fiction</dc:subject>
 		<dc:subject id="subject-2">Historical fiction</dc:subject>
-		<dc:subject id="subject-3">Revenge -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Revenge--Fiction</dc:subject>
 		<dc:subject id="subject-4">Psychological fiction</dc:subject>
-		<dc:subject id="subject-5">Married women -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Clergy -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Triangles (Interpersonal relations) -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Illegitimate children -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Women immigrants -- Fiction</dc:subject>
-		<dc:subject id="subject-10">Puritans -- Fiction</dc:subject>
-		<dc:subject id="subject-11">Boston (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction</dc:subject>
+		<dc:subject id="subject-5">Married women--Fiction</dc:subject>
+		<dc:subject id="subject-6">Clergy--Fiction</dc:subject>
+		<dc:subject id="subject-7">Triangles (Interpersonal relations)--Fiction</dc:subject>
+		<dc:subject id="subject-8">Illegitimate children--Fiction</dc:subject>
+		<dc:subject id="subject-9">Women immigrants--Fiction</dc:subject>
+		<dc:subject id="subject-10">Puritans--Fiction</dc:subject>
+		<dc:subject id="subject-11">Boston (Mass.)--History--Colonial period, ca. 1600-1775--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100578</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
